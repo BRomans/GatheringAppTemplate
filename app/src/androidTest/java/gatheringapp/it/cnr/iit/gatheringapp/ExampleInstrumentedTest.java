@@ -1,4 +1,4 @@
-package gatheringapp.it.cnr.iit.sensorsgatheringapp;
+package gatheringapp.it.cnr.iit.gatheringapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

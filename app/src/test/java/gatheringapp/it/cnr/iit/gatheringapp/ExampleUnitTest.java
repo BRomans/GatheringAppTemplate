@@ -1,4 +1,4 @@
-package gatheringapp.it.cnr.iit.sensorsgatheringapp;
+package gatheringapp.it.cnr.iit.gatheringapp;
 
 import org.junit.Test;
 
